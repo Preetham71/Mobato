@@ -1,0 +1,30 @@
+*{
+  margin:-8px;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav {
+    display: flex;
+ 
+    background-color:rgb(31, 31, 34);
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    padding-left: 1%;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  
+  }
+  
+  nav a:hover {
+    color: beige;
+    text-decoration: underline;
+  }
+  
